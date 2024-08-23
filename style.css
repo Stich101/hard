@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+.black{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black1{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white1{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white2{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white3{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black4{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white4{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white5{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox5{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black6{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white6{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox6{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.black7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.white7{
+    width: 50px;
+    height: 50px;
+    background-color: #E0D4BA;
+}
+.otabox7{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 190px;
+}
+.aa{
+    margin: 100px  300px;
+}
